@@ -1,2 +1,2 @@
-# ING-productgroup-Java
+# ING-modelgroup-java
 Backend code
